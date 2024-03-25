@@ -34,10 +34,6 @@ Navigate to each logbook directory to find specific examples and exercises. Foll
 
 This project is part of my coursework submission and is not open for contributions. However, feedback and suggestions are welcome.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgments
 
 - Jon Jackson, for providing the coursework outline and supervision.
